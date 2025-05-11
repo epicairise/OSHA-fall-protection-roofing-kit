@@ -1,11 +1,11 @@
 [
   {
     "position": 1,
-    "name": "Guardian Fall Protection Roofing Kit",
-    "slug": "guardian-fall-protection-roofing-kit",
-    "description": "All-in-one OSHA-compliant fall protection kit built for roofing contractors tackling steep pitches.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/guardian-fall-protection-roofing-kit.jpg",
-    "target_audience_match": "Ideal for solo roofers or small crews who want a reliable, budget-friendly kit that passes inspections every time.",
+    "name": "SafeWaze Roofer's Basic Kit",
+    "slug": "safewaze-roofers-basic-kit",
+    "description": "A no-nonsense kit with harness, lifeline, and anchor—ideal for small crews just trying to pass their first inspection.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safewaze-roofers-basic-kit.jpg",
+    "target_audience_match": "Perfect for small roofing crews who just want to stay legal without spending hours on research.",
     "price": "From $129",
     "data-link": "pending"
   },
@@ -13,40 +13,30 @@
     "position": 2,
     "name": "Werner Roofing Safety System",
     "slug": "werner-roofing-safety-system",
-    "description": "A premium fall protection setup trusted by pros and major contractors alike.",
+    "description": "Comfort-focused gear with multi-day durability—ideal for crews tackling multi-roof projects or longer timelines.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/werner-roofing-safety-system.jpg",
-    "target_audience_match": "Perfect for teams that need durability and comfort during long hours on steep or complex roofs.",
-    "price": "From $249",
+    "target_audience_match": "Great for growing teams who need reliable protection they won’t dread wearing day after day.",
+    "price": "From $179",
     "data-link": "pending"
   },
   {
     "position": 3,
-    "name": "Malta Dynamics Warthog Roofing Kit",
-    "slug": "malta-dynamics-warthog-kit",
-    "description": "Tough, field-tested gear with a military-grade harness \u2014 built for harsh jobsite conditions.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/malta-dynamics-warthog-kit.jpg",
-    "target_audience_match": "Designed for roofers who work in extreme heat, cold, or debris-heavy environments and can't afford equipment failure.",
-    "price": "From $199",
+    "name": "3M DBI-SALA Compliance Kit",
+    "slug": "3m-dbi-sala-compliance-kit",
+    "description": "Trusted by pros for passing audits, this OSHA-grade kit includes a shock lanyard, reusable anchor, and ergonomic harness.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-dbi-sala-compliance-kit.jpg",
+    "target_audience_match": "Perfect for professional roofers who never want to worry about surprise inspections again.",
+    "price": "From $289",
     "data-link": "pending"
   },
   {
     "position": 4,
-    "name": "3M DBI-SALA Roofer\u2019s Compliance Kit",
-    "slug": "3m-dbi-sala-compliance-kit",
-    "description": "Trusted brand with advanced safety features for high-risk residential and commercial roofing.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-dbi-sala-compliance-kit.jpg",
-    "target_audience_match": "Best for licensed contractors juggling multiple jobs who need gear that stands up to inspections every time.",
-    "price": "From $279",
-    "data-link": "pending"
-  },
-  {
-    "position": 5,
-    "name": "SafeWaze Roofer's Basic Fall Kit",
-    "slug": "safewaze-roofers-basic-kit",
-    "description": "Affordable and compact \u2014 great for quick jobs or starter crews.",
-    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safewaze-roofers-basic-kit.jpg",
-    "target_audience_match": "A smart pick for new roofers, weekend warriors, or businesses looking to outfit part-time teams quickly.",
-    "price": "From $99",
+    "name": "Guardian Fall Protection Kit",
+    "slug": "guardian-fall-protection-roofing-kit",
+    "description": "A go-to safety starter pack with harness, 50 ft. lifeline, and anchor—ideal for new hires or subcontractor kits.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/guardian-fall-protection-roofing-kit.jpg",
+    "target_audience_match": "Ideal for contractors who need to onboard new hires without risking a compliance gap.",
+    "price": "From $149",
     "data-link": "pending"
   }
 ]
