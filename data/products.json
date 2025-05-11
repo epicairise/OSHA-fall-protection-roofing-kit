@@ -3,40 +3,40 @@
     "position": 1,
     "name": "SafeWaze Roofer's Basic Kit",
     "slug": "safewaze-roofers-basic-kit",
-    "description": "A no-nonsense kit with harness, lifeline, and anchor—ideal for small crews just trying to pass their first inspection.",
+    "description": "Includes full-body harness, 50 ft. lifeline with rope grab, single anchor, and carry bag. Designed for 1926.502 compliance on small jobs.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safewaze-roofers-basic-kit.jpg",
-    "target_audience_match": "Perfect for small roofing crews who just want to stay legal without spending hours on research.",
-    "price": "From $129",
+    "target_audience_match": "Perfect for stressed-out roofing crews who need a plug-and-play kit to pass their first OSHA inspection.",
+    "price": "From $149",
     "data-link": "pending"
   },
   {
     "position": 2,
     "name": "Werner Roofing Safety System",
     "slug": "werner-roofing-safety-system",
-    "description": "Comfort-focused gear with multi-day durability—ideal for crews tackling multi-roof projects or longer timelines.",
+    "description": "Comfort-fit harness, 30 ft. lifeline with energy absorber, adjustable D-ring, and anchor strap — built for full-shift durability.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/werner-roofing-safety-system.jpg",
-    "target_audience_match": "Great for growing teams who need reliable protection they won’t dread wearing day after day.",
-    "price": "From $179",
+    "target_audience_match": "Great for hands-on foremen trying to keep their crew safe and compliant through multi-day jobs.",
+    "price": "From $229",
     "data-link": "pending"
   },
   {
     "position": 3,
     "name": "3M DBI-SALA Compliance Kit",
     "slug": "3m-dbi-sala-compliance-kit",
-    "description": "Trusted by pros for passing audits, this OSHA-grade kit includes a shock lanyard, reusable anchor, and ergonomic harness.",
+    "description": "Features an ergonomic ExoFit harness, shock-absorbing lanyard, and reusable roof anchor trusted by pros and inspectors alike.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/3m-dbi-sala-compliance-kit.jpg",
-    "target_audience_match": "Perfect for professional roofers who never want to worry about surprise inspections again.",
-    "price": "From $289",
+    "target_audience_match": "Ideal for veteran contractors who need inspection-ready gear that holds up to repeat use.",
+    "price": "From $279",
     "data-link": "pending"
   },
   {
     "position": 4,
     "name": "Guardian Fall Protection Kit",
     "slug": "guardian-fall-protection-roofing-kit",
-    "description": "A go-to safety starter pack with harness, 50 ft. lifeline, and anchor—ideal for new hires or subcontractor kits.",
+    "description": "A no-fuss safety setup for onboarding new hires — with 5-point harness, lifeline, and reusable anchor system.",
     "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/guardian-fall-protection-roofing-kit.jpg",
-    "target_audience_match": "Ideal for contractors who need to onboard new hires without risking a compliance gap.",
-    "price": "From $149",
+    "target_audience_match": "Perfect for small crew leaders who just brought on a new roofer and need them OSHA-compliant by Monday.",
+    "price": "From $189",
     "data-link": "pending"
   }
 ]
